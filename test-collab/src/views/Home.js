@@ -1,8 +1,13 @@
 import React from 'react'
+import Zac from './component/Zac'
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>Home
+      <Zac />
+    </div>
+  
+    
   )
 }
 
