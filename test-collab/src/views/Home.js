@@ -7,9 +7,9 @@ function Home() {
     <div>Home
       <Zac />
       <Jamila />
+
+      
     </div>
-  
-    
   )
 }
 
